@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-24 07:00:22,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+2025-09-24 07:00:21,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
